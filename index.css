@@ -1,0 +1,19 @@
+#inp {
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #6600cc;
+}
+
+#inp2{
+    color: white;
+    background-color: magenta;
+    width: 250px;
+    height: 100px;
+    border-radius: 5px ;
+}
